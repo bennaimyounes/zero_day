@@ -1,0 +1,1 @@
+VAGRANT COMMAND uname
